@@ -1,0 +1,15 @@
+/home/mjchaurasia/C#/PrimeOrNot/bin/Debug/net6.0/PrimeOrNot
+/home/mjchaurasia/C#/PrimeOrNot/bin/Debug/net6.0/PrimeOrNot.deps.json
+/home/mjchaurasia/C#/PrimeOrNot/bin/Debug/net6.0/PrimeOrNot.runtimeconfig.json
+/home/mjchaurasia/C#/PrimeOrNot/bin/Debug/net6.0/PrimeOrNot.dll
+/home/mjchaurasia/C#/PrimeOrNot/bin/Debug/net6.0/PrimeOrNot.pdb
+/home/mjchaurasia/C#/PrimeOrNot/obj/Debug/net6.0/PrimeOrNot.csproj.AssemblyReference.cache
+/home/mjchaurasia/C#/PrimeOrNot/obj/Debug/net6.0/PrimeOrNot.GeneratedMSBuildEditorConfig.editorconfig
+/home/mjchaurasia/C#/PrimeOrNot/obj/Debug/net6.0/PrimeOrNot.AssemblyInfoInputs.cache
+/home/mjchaurasia/C#/PrimeOrNot/obj/Debug/net6.0/PrimeOrNot.AssemblyInfo.cs
+/home/mjchaurasia/C#/PrimeOrNot/obj/Debug/net6.0/PrimeOrNot.csproj.CoreCompileInputs.cache
+/home/mjchaurasia/C#/PrimeOrNot/obj/Debug/net6.0/PrimeOrNot.dll
+/home/mjchaurasia/C#/PrimeOrNot/obj/Debug/net6.0/refint/PrimeOrNot.dll
+/home/mjchaurasia/C#/PrimeOrNot/obj/Debug/net6.0/PrimeOrNot.pdb
+/home/mjchaurasia/C#/PrimeOrNot/obj/Debug/net6.0/PrimeOrNot.genruntimeconfig.cache
+/home/mjchaurasia/C#/PrimeOrNot/obj/Debug/net6.0/ref/PrimeOrNot.dll
